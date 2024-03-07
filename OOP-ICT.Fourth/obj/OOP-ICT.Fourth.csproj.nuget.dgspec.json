@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Fourth\\OOP-ICT.Fourth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj",
+        "projectName": "OOP-ICT.First",
+        "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj",
+        "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kosma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Fourth\\OOP-ICT.Fourth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Fourth\\OOP-ICT.Fourth.csproj",
+        "projectName": "OOP-ICT.Fourth",
+        "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Fourth\\OOP-ICT.Fourth.csproj",
+        "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Fourth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kosma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj": {
+                "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj"
+              },
+              "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj": {
+                "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj"
+              },
+              "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Third\\OOP-ICT.Third.csproj": {
+                "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Third\\OOP-ICT.Third.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj",
+        "projectName": "OOP-ICT.Second",
+        "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj",
+        "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kosma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Third\\OOP-ICT.Third.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Third\\OOP-ICT.Third.csproj",
+        "projectName": "OOP-ICT.Third",
+        "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Third\\OOP-ICT.Third.csproj",
+        "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Third\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kosma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj": {
+                "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.First\\OOP-ICT.First.csproj"
+              },
+              "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj": {
+                "projectPath": "C:\\Users\\kosma\\RiderProjects\\macinia\\OOP-ICT.Second\\OOP-ICT.Second.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
